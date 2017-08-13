@@ -1411,7 +1411,7 @@ exports['default'] = function (styles) {
                                 if (!newState.isOpen) {
                                     _this.applyWrapperStyles(false);
                                 }
-                            }, 500);
+                            }, 0);
                         });
                     }
                 },
