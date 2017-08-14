@@ -13,7 +13,6 @@
  */
 
 function makeEmptyFunction(arg) {
-  alert('something');
   return function () {
     return arg;
   };
