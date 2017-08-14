@@ -31,7 +31,7 @@ export default (styles) => {
           if (!newState.isOpen) {
             this.applyWrapperStyles(false);
           }
-        }, 500);
+        }, 0);
       });
     }
 
